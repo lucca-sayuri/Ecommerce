@@ -1,6 +1,6 @@
 import './Banner.css'
-import banner from '../../assets/banner.jpg'
-import bannerMobile from '../../assets/banner_mobile.jpg'
+import banner from '../../../public/banner.jpg'
+// import bannerMobile from '../../../public/banner_mobile.jpg'
 
 export default function Banner() {
     return (

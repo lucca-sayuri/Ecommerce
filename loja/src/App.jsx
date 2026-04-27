@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './components/Header'
 import Banner from './components/Banner'
+import Products from './components/Products'
 
 function App() {
   
@@ -12,6 +13,10 @@ function App() {
 
       <main>
         <Banner/>
+
+        <section>
+          <Products/>
+        </section>
       </main>
     </div>
   )
